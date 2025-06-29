@@ -1,0 +1,258 @@
+{
+   "978-2-01-155271-6": {
+      "titre": "Python Facile",
+      "auteur": "Zakaria Haja",
+      "annee": 2022,
+      "genre": "Informatique",
+      "quantite": 0,
+      "est_supprimer": "True"
+   },
+   "978-2-03-584725-9": {
+      "titre": "L'intelligence Artificielle",
+      "auteur": "Yasmine El Alaoui",
+      "annee": 2023,
+      "genre": "Technologie",
+      "quantite": 20,
+      "est_supprimer": "False"
+   },
+   "978-2-07-036822-8": {
+      "titre": "ml",
+      "auteur": "ml",
+      "annee": 200,
+      "genre": "ml",
+      "quantite": 0,
+      "est_supprimer": "False"
+   },
+   "978-0-14-143960-0": {
+      "titre": "Orgueil et Prejuges",
+      "auteur": "Jane Austen",
+      "annee": 1813,
+      "genre": "Classique",
+      "quantite": 0,
+      "est_supprimer": "False"
+   },
+   "978-2-290-00137-7": {
+      "titre": "Le Meurtre de Roger Ackroyd",
+      "auteur": "Agatha Christie",
+      "annee": 1926,
+      "genre": "Policier",
+      "quantite": 4,
+      "est_supprimer": "False"
+   },
+   "978-1-56619-909-4": {
+      "titre": "Deep Learning avec Python",
+      "auteur": "Francois Chollet",
+      "annee": 2021,
+      "genre": "Informatique",
+      "quantite": 6,
+      "est_supprimer": "False"
+   },
+   "978-2-226-47751-6": {
+      "titre": "Les Fourmis",
+      "auteur": "Bernard Werber",
+      "annee": 1991,
+      "genre": "Science-fiction",
+      "quantite": 9,
+      "est_supprimer": "False"
+   },
+   "978-2-330-06008-2": {
+      "titre": "Ta deuxieme vie commence...",
+      "auteur": "Raphaelle Giordano",
+      "annee": 2015,
+      "genre": "Developpement personnel",
+      "quantite": 3,
+      "est_supprimer": "False"
+   },
+   "978-2-7467-2530-9": {
+      "titre": "Sapiens",
+      "auteur": "Yuval Noah Harari",
+      "annee": 2011,
+      "genre": "Histoire",
+      "quantite": 5,
+      "est_supprimer": "False"
+   },
+   "978-2-01-203780-0": {
+      "titre": "L'Etranger",
+      "auteur": "Albert Camus",
+      "annee": 1942,
+      "genre": "Philosophie",
+      "quantite": 7,
+      "est_supprimer": "False"
+   },
+   "978-2-070-25380-9": {
+      "titre": "Les Miserables",
+      "auteur": "Victor Hugo",
+      "annee": 1862,
+      "genre": "Roman historique",
+      "quantite": 6,
+      "est_supprimer": "False"
+   },
+   "978-2-234-05723-6": {
+      "titre": "1984",
+      "auteur": "George Orwell",
+      "annee": 1949,
+      "genre": "Dystopie",
+      "quantite": 4,
+      "est_supprimer": "False"
+   },
+   "978-2-221-14088-2": {
+      "titre": "La Peste",
+      "auteur": "Albert Camus",
+      "annee": 1947,
+      "genre": "Philosophie",
+      "quantite": 0,
+      "est_supprimer": "True"
+   },
+   "978-2-253-18618-3": {
+      "titre": "La Nuit",
+      "auteur": "Elie Wiesel",
+      "annee": 1958,
+      "genre": "Memoire",
+      "quantite": 0,
+      "est_supprimer": "False"
+   },
+   "978-2-266-12158-3": {
+      "titre": "La Vie est Facile",
+      "auteur": "Agnes Martin-Lugand",
+      "annee": 2015,
+      "genre": "Roman",
+      "quantite": 6,
+      "est_supprimer": "False"
+   },
+   "978-2-253-07107-6": {
+      "titre": "La Vie Devant Soi",
+      "auteur": "Romain Gary",
+      "annee": 1975,
+      "genre": "Roman",
+      "quantite": 7,
+      "est_supprimer": "False"
+   },
+   "978-2-253-07418-3": {
+      "titre": "Le Horla",
+      "auteur": "Guy de Maupassant",
+      "annee": 1887,
+      "genre": "Fantastique",
+      "quantite": 4,
+      "est_supprimer": "False"
+   },
+   "978-2-07-036053-6": {
+      "titre": "L'Alchimiste",
+      "auteur": "Paulo Coelho",
+      "annee": 1988,
+      "genre": "Philosophie",
+      "quantite": 9,
+      "est_supprimer": "False"
+   },
+   "978-2-330-07687-8": {
+      "titre": "Changer l'eau des fleurs",
+      "auteur": "Valerie Perrin",
+      "annee": 2018,
+      "genre": "Contemporain",
+      "quantite": 5,
+      "est_supprimer": "False"
+   },
+   "978-2-07-061374-7": {
+      "titre": "Petit Pays",
+      "auteur": "Gael Faye",
+      "annee": 2016,
+      "genre": "Roman",
+      "quantite": 3,
+      "est_supprimer": "False"
+   },
+   "978-3-16-148410-0": {
+      "titre": "Le Monde de Sophie",
+      "auteur": "Jostein Gaarder",
+      "annee": 1991,
+      "genre": "Philosophie",
+      "quantite": 12,
+      "est_supprimer": "False"
+   },
+   "978-0-452-28423-4": {
+      "titre": "Fahrenheit 451",
+      "auteur": "Ray Bradbury",
+      "annee": 1953,
+      "genre": "Science-fiction",
+      "quantite": 7,
+      "est_supprimer": "False"
+   },
+   "978-0-7432-7356-5": {
+      "titre": "Anges et Demons",
+      "auteur": "Dan Brown",
+      "annee": 2000,
+      "genre": "Thriller",
+      "quantite": 5,
+      "est_supprimer": "False"
+   },
+   "978-2-07-036053-7": {
+      "titre": "Le Petit Nicolas",
+      "auteur": "Rene Goscinny",
+      "annee": 1959,
+      "genre": "Jeunesse",
+      "quantite": 9,
+      "est_supprimer": "False"
+   },
+   "978-0-375-50420-1": {
+      "titre": "L'Alchimiste",
+      "auteur": "Paulo Coelho",
+      "annee": 1988,
+      "genre": "Philosophie",
+      "quantite": 10,
+      "est_supprimer": "False"
+   },
+   "978-1-4000-3341-6": {
+      "titre": "Le Livre des Baltimore",
+      "auteur": "Joel Dicker",
+      "annee": 2015,
+      "genre": "Roman",
+      "quantite": 8,
+      "est_supprimer": "False"
+   },
+   "978-2-08-067482-2": {
+      "titre": "La Verite sur l'Affaire Harry Quebert",
+      "auteur": "Joel Dicker",
+      "annee": 2012,
+      "genre": "Roman policier",
+      "quantite": 4,
+      "est_supprimer": "False"
+   },
+   "978-0-679-74558-7": {
+      "titre": "Le Seigneur des Anneaux",
+      "auteur": "J.R.R. Tolkien",
+      "annee": 1954,
+      "genre": "Fantasy",
+      "quantite": 6,
+      "est_supprimer": "False"
+   },
+   "978-0-7434-7712-3": {
+      "titre": "Da Vinci Code",
+      "auteur": "Dan Brown",
+      "annee": 2003,
+      "genre": "Thriller",
+      "quantite": 11,
+      "est_supprimer": "False"
+   },
+   "978-2-07-061374-8": {
+      "titre": "Le Petit Prince - Edition Illustree",
+      "auteur": "Antoine de Saint-Exupery",
+      "annee": 1943,
+      "genre": "Roman",
+      "quantite": 7,
+      "est_supprimer": "False"
+   },
+   "4578": {
+      "titre": "4578",
+      "auteur": "hellojk",
+      "annee": 4578,
+      "genre": "Roman",
+      "quantite": 52,
+      "est_supprimer": "False"
+   },
+   "45788": {
+      "titre": "4578",
+      "auteur": "4578",
+      "annee": 4578,
+      "genre": "Roman",
+      "quantite": 0,
+      "est_supprimer": "True"
+   }
+}
