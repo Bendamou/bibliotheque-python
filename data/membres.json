@@ -193,5 +193,12 @@
         "historique_livre_emprunte": [
             "4578"
         ]
+    },
+    "00": {
+        "nom": "test",
+        "livre_empruntes": [],
+        "historique_livre_emprunte": [
+            "47877"
+        ]
     }
 }

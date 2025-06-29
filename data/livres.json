@@ -244,7 +244,7 @@
       "auteur": "hellojk",
       "annee": 4578,
       "genre": "Roman",
-      "quantite": 52,
+      "quantite": 97,
       "est_supprimer": "False"
    },
    "45788": {
@@ -254,5 +254,13 @@
       "genre": "Roman",
       "quantite": 0,
       "est_supprimer": "True"
+   },
+   "47877": {
+      "titre": "test",
+      "auteur": "tset",
+      "annee": 5645,
+      "genre": "roman",
+      "quantite": 545,
+      "est_supprimer": "False"
    }
 }
